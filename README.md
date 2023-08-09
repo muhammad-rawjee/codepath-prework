@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Random Background Generator*
 
 Submitted by: **Muhammad Ali Rawjee**
 
