@@ -28,10 +28,21 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Three of my Favorite Apps: 
+
+1. Mimo: 
+
+2. ESPN
+
+3. Waze
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: 
+
+Building the App itself went pretty smoothly, 
+but adding the gif to the README.md file was a bit of a hassle.
 
 ## License
 
