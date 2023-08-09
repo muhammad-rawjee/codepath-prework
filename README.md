@@ -2,16 +2,16 @@
 
 Submitted by: **Muhammad Ali Rawjee**
 
-**Name of your app** is an app that... [TODO] 
+**Random Background Generator** is an app that changes its background color to a random color on a button press
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
