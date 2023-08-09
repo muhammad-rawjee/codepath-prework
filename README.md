@@ -31,21 +31,21 @@ GIF created with ...
 Three of my Favorite Apps: 
 
 1. Mimo (A Coding Challenge App)
-<br>
+
 a. Features I enjoy:
 1. The public Leader board where you can see where you stand in comparison to your peers
 2. Language specific coding challenges.
 3. A streaks system that keeps users accountable and helps their progress.
-<br>
+
 2. ESPN
-<br>
+
 a. Features I enjoy:
 1. The general layout, different pages to check scores, watch live sports and see general sports news.
 2. The feature that lets you filter by sport and check out broadcasting schedules for that sport.
 3. Live radio so you can listen, when watching is inconvenient.
-<br>
+
 3. Waze
-<br>
+
 a. Features I enjoy:
 1. Updates on road blockages and speed traps, with precise locations.
 2. The App changes its theme depending on whether it is day or night.
